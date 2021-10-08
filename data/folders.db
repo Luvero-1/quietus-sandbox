@@ -1,0 +1,16 @@
+{"name":"Principal","type":"Item","parent":"n7LRNQJhJSQ6RGCb","sorting":"a","sort":0,"color":null,"flags":{},"_id":"3aBiG6IkxBVbOD7r"}
+{"_id":"3yzbvHOC3StOPhN8","name":"Tablas de generación (NO TOCAR)","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"GM","type":"Item","parent":"n7LRNQJhJSQ6RGCb","sorting":"a","sort":0,"color":null,"flags":{},"_id":"4Be2A6OXAKNJ5tCk"}
+{"name":"Propiedades de Cicatrices","type":"Item","parent":"vWg5gX9NCxEkLO9C","sorting":"a","sort":0,"color":null,"flags":{},"_id":"4HPNKmOuCDf338R6"}
+{"name":"Némesis","type":"RollTable","parent":"3yzbvHOC3StOPhN8","sorting":"a","sort":0,"color":null,"flags":{},"_id":"6ESlwOZorojikXF3"}
+{"name":"Propiedades tiradas","type":"Item","parent":"vWg5gX9NCxEkLO9C","sorting":"a","sort":0,"color":null,"flags":{},"_id":"6Y2w6lDioPBZPe34"}
+{"name":"Propiedades caracteristicas","type":"Item","parent":"vWg5gX9NCxEkLO9C","sorting":"a","sort":0,"color":null,"flags":{},"_id":"CM8dvexd0CGthhMD"}
+{"name":"GM","type":"Item","parent":"vWg5gX9NCxEkLO9C","sorting":"a","sort":0,"color":null,"flags":{},"_id":"L8fDTW9xWZR6KJkP"}
+{"_id":"Y6s8C4xOF2Qe7gRV","name":"Plantilla (NO TOCAR)","type":"Item","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Escenarios basicos","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"cN7bTDazBrSUSaNN"}
+{"_id":"eFzxi53kSYPxKKkc","name":"Pantalla de GM (NO TOCAR)","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Tragedia","type":"RollTable","parent":"3yzbvHOC3StOPhN8","sorting":"a","sort":0,"color":null,"flags":{},"_id":"fgHZNASfKOnz8Dg9"}
+{"_id":"juD2VDdBjG7NnE4o","name":"1 Plantilla (NO TOCAR)","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"n7LRNQJhJSQ6RGCb","name":"2 Paneles y Multipaneles","type":"Item","parent":"Y6s8C4xOF2Qe7gRV","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"3 Propiedades","type":"Item","parent":"Y6s8C4xOF2Qe7gRV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"vWg5gX9NCxEkLO9C"}
+{"_id":"yJtpJ33dVQto9DBc","name":"1 Pestañas","type":"Item","parent":"Y6s8C4xOF2Qe7gRV","sorting":"a","sort":0,"color":"","flags":{}}

@@ -1,0 +1,34 @@
+{
+  "name": "quietus-sandbox",
+  "title": "Quietus para Sandbox",
+  "description": "<p style=\"text-align: center;\"><em><span class=\"fontstyle0\">Ese llanto empieza en mitad de la noche. En realidad, es m&aacute;s bien un sollozo, un sonido de total<br />desesperaci&oacute;n que parte el coraz&oacute;n y que parece venir de la planta de abajo, pero all&iacute; no hay nadie. &iquest;El ruido podr&iacute;a venir de alg&uacute;n otro lugar? La casa est&aacute; en lo alto de un acantilado, as&iacute; que tal vez proceda del pueblo o de una cueva secreta de alg&uacute;n lugar de la ladera. &iquest;O puede que sea algo que haya dentro de las ca&ntilde;er&iacute;as?</span> </em></p>",
+  "author": "Luvero",
+  "authors": [
+    {
+      "name": "Luvero",
+      "discord": "Luvero#5745"
+    }
+  ],
+  "url": "https://github.com/Luvero-1/quietus-sandbox",
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/Luvero-1/quietus-sandbox/main/world.json",
+  "download": "https://codeload.github.com/Luvero-1/quietus-sandbox/zip/main",
+  "protected": false,
+  "background": "worlds/quietus-sandbox/2%20Ficha/Rotulo%20portada.jpg",
+  "coreVersion": "0.8.9",
+  "nextSession": null,
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.10.1"
+}
